@@ -8,6 +8,7 @@
 | `strokeColor` | String     | `#000` |
 | `fillColor` | String     |  |
 | `strokeWidth` | Number     | `1` |
+| `onPress` | `Function`     |  | returns the selected overlay value with the onPress functionality |
 
 ## Example
 
